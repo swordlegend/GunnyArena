@@ -1,0 +1,93 @@
+# =============================================
+# GunnyArena Root .gitignore
+# =============================================
+
+# IDE and Editor files - không commit
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursorignore
+
+# Backup directory - không commit
+Backup/
+**/Backup/
+
+# Documentation - không commit
+Docs/
+**/Docs/
+
+# FLA files directory - không commit
+FLA/
+**/FLA/
+
+# Tools and Database - giữ folder structure nhưng ignore nội dung
+Tools/**
+!Tools/
+!Tools/.gitkeep
+Database/**
+!Database/
+!Database/.gitkeep
+
+# Log files - không commit
+*.log
+*.txt.log
+**/*Log.txt
+**/*Log*.txt
+*logs/
+**/logs/
+
+# Environment files
+.env
+.env.*
+.env.example
+**/.env
+**/.env.*
+**/.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.swp
+*.swo
+*~
+
+# Archive files
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+*.bak
+
+# Build outputs
+**/bin/
+**/obj/
+**/dist/
+**/builds/
+*.dll
+*.exe
+*.pdb
+
+# Node modules
+node_modules/
+**/node_modules/
+
+# PHP vendor
+vendor/
+**/vendor/
+
+# Database files
+*.mdf
+*.ldf
+*.db
+*.sqlite
+*.sqlite3
+
