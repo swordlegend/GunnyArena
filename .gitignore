@@ -29,6 +29,7 @@ Tools/**
 Database/**
 !Database/
 !Database/.gitkeep
+!Database/README.md
 
 # Log files - không commit
 *.log
