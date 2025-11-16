@@ -40,7 +40,7 @@ The platform supports thousands of concurrent players with real-time PvP/PvE bat
 
 ## 🎮 Download Launcher
 
-**Download Launcher**: [http://gunnyarena.serveirc.com/download-launcher](http://gunnyarena.serveirc.com/download-launcher)
+**Download Launcher**: <a href="http://gunnyarena.serveirc.com/download-launcher" target="_blank">http://gunnyarena.serveirc.com/download-launcher</a>
 
 **Test Account**:
 - **Account**: `tovanloc123`
