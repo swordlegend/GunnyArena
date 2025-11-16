@@ -85,6 +85,8 @@ Check out these screenshots of the DDTank 3.0 game in action:
 
 ## 🏗️ Architecture
 
+<div align="center">
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                        GunnyArena Platform                       │
@@ -104,6 +106,8 @@ Check out these screenshots of the DDTank 3.0 game in action:
                     │   SQL Database  │
                     └─────────────────┘
 ```
+
+</div>
 
 ### Key Features
 
